@@ -65,7 +65,7 @@ https://kritlock11.github.io/projects/
 </td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 50%; height: 18px;"><iframe src="https://www.youtube.com/embed/mboefXxze40" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
+<td style="width: 50%; height: 18px;"><iframe src="https://www.youtube.com/embed/7trwEr8OUIE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
 <td style="width: 50%; height: 18px; text-align: center;">
 <h2>3D Red Blue Hunt (Poisson Sampling practice)</h2>
 <p>(2020 06 30)</p>
