@@ -1,5 +1,4 @@
 <h1>Личные проекты</h1>
-https://kritlock11.github.io/projects/
 <br>
 <table style="border-collapse: collapse; width: 100%; height: 446px;" border="1">
 <tbody>
